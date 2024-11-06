@@ -1,0 +1,61 @@
+Team_1,Goals_1,Goals_2,Team_2
+South Korea,0,0,Iraq
+Iran,1,0,Syria
+U. A. E.,0,0,Lebanon
+South Korea,1,0,Lebanon
+Syria,1,1,U. A. E.
+Iraq,0,3,Iran
+South Korea,2,1,Syria
+Iraq,0,0,Lebanon
+U. A. E.,0,1,Iran
+Iran,1,1,South Korea
+Syria,2,3,Lebanon
+U. A. E.,2,2,Iraq
+South Korea,1,0,U. A. E.
+Lebanon,1,2,Iran
+Iraq,1,1,Syria
+Lebanon,0,1,U. A. E.
+Iraq,0,3,South Korea
+Syria,0,3,Iran
+Lebanon,0,1,South Korea
+Iran,1,0,Iraq
+U. A. E.,2,0,Syria
+Lebanon,1,1,Iraq
+Syria,0,2,South Korea
+Iran,1,0,U. A. E.
+South Korea,2,0,Iran
+Lebanon,0,3,Syria
+Iraq,1,0,U. A. E.
+Iran,2,0,Lebanon
+U. A. E.,1,0,South Korea
+Syria,1,1,Iraq
+Japan,0,1,Oman
+Saudi Arabia,3,1,Vietnam
+Australia,3,0,China
+Vietnam,0,1,Australia
+China,0,1,Japan
+Oman,0,1,Saudi Arabia
+Saudi Arabia,1,0,Japan
+China,3,2,Vietnam
+Australia,3,1,Oman
+Japan,2,1,Australia
+Oman,3,1,Vietnam
+Saudi Arabia,3,2,China
+Australia,0,0,Saudi Arabia
+Vietnam,0,1,Japan
+China,1,1,Oman
+Vietnam,0,1,Saudi Arabia
+China,1,1,Australia
+Oman,0,1,Japan
+Australia,4,0,Vietnam
+Japan,2,0,China
+Saudi Arabia,1,0,Oman
+Japan,2,0,Saudi Arabia
+Vietnam,3,1,China
+Oman,2,2,Australia
+Australia,0,2,Japan
+Vietnam,0,1,Oman
+China,1,1,Saudi Arabia
+Japan,1,1,Vietnam
+Oman,2,0,China
+Saudi Arabia,1,0,Australia

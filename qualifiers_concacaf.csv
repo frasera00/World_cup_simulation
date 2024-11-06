@@ -1,0 +1,63 @@
+Team_1,Goals_1,Goals_2,Team_2
+Canada,1,1,Honduras
+Panama,0,0,Costa Rica
+Mexico,2,1,Jamaica
+El Salvador,0,0,USA
+Jamaica,0,3,Panama
+El Salvador,0,0,Honduras
+Costa Rica,0,1,Mexico
+USA,1,1,Canada
+Canada,3,0,El Salvador
+Panama,1,1,Mexico
+Costa Rica,1,1,Jamaica
+Honduras,1,4,USA
+USA,2,0,Jamaica
+Honduras,0,0,Costa Rica
+Mexico,1,1,Canada
+El Salvador,1,0,Panama
+Panama,1,0,USA
+Jamaica,0,0,Canada
+Costa Rica,2,1,El Salvador
+Mexico,3,0,Honduras
+USA,2,1,Costa Rica
+Canada,4,1,Panama
+Honduras,0,2,Jamaica
+El Salvador,0,2,Mexico
+Honduras,2,3,Panama
+Canada,1,0,Costa Rica
+El Salvador,1,1,Jamaica
+USA,2,0,Mexico
+Jamaica,1,1,USA
+Costa Rica,2,1,Honduras
+Panama,2,1,El Salvador
+Canada,2,1,Mexico
+Jamaica,1,2,Mexico
+USA,1,0,El Salvador
+Honduras,0,2,Canada
+Costa Rica,1,0,Panama
+Canada,2,0,USA
+Panama,3,2,Jamaica
+Mexico,0,0,Costa Rica
+Honduras,0,2,El Salvador
+Jamaica,0,1,Costa Rica
+USA,3,0,Honduras
+El Salvador,0,2,Canada
+Mexico,1,0,Panama
+Jamaica,1,1,El Salvador
+Panama,1,1,Honduras
+Mexico,0,0,USA
+Costa Rica,1,0,Canada
+Canada,4,0,Jamaica
+El Salvador,1,2,Costa Rica
+USA,5,1,Panama
+Honduras,0,1,Mexico
+Costa Rica,2,0,USA
+Jamaica,2,1,Honduras
+Mexico,2,0,El Salvador
+Panama,1,0,Canada
+Qatar,0,2,Canada
+Qatar,1,0,Honduras
+Qatar,2,0,Guatemala
+Guatemala,1,2,Honduras
+Guatemala,4,0,El Salvador
+Guatemala,0,0,Mexico

@@ -1,0 +1,262 @@
+Team_1,Goals_1,Goals_2,Team_2
+Bulgaria,1,1,Montenegro
+England,5,0,Czechia
+Montenegro,1,5,England
+Kosovo,1,1,Bulgaria
+Montenegro,1,1,Kosovo
+Czechia,2,1,Bulgaria
+Czechia,3,0,Montenegro
+Bulgaria,2,3,Kosovo
+Kosovo,2,1,Czechia
+England,4,0,Bulgaria
+Montenegro,0,3,Czechia
+England,5,3,Kosovo
+Montenegro,0,0,Bulgaria
+Czechia,2,1,England
+Kosovo,2,0,Montenegro
+Bulgaria,0,6,England
+England,7,0,Montenegro
+Czechia,2,1,Kosovo
+Kosovo,0,4,England
+Bulgaria,1,0,Czechia
+Portugal,0,0,Ukraine
+Luxembourg,2,1,Lithuania
+Portugal,1,1,Serbia
+Luxembourg,1,2,Ukraine
+Ukraine,5,0,Serbia
+Lithuania,1,1,Luxembourg
+Serbia,4,1,Lithuania
+Ukraine,1,0,Luxembourg
+Lithuania,0,3,Ukraine
+Serbia,2,4,Portugal
+Luxembourg,1,3,Serbia
+Lithuania,1,5,Portugal
+Portugal,3,0,Luxembourg
+Ukraine,2,0,Lithuania
+Lithuania,1,2,Serbia
+Ukraine,2,1,Portugal
+Serbia,3,2,Luxembourg
+Portugal,6,0,Lithuania
+Serbia,2,2,Ukraine
+Luxembourg,0,2,Portugal
+N. Ireland,2,0,Estonia
+Netherlands,4,0,Belarus
+N. Ireland,2,1,Belarus
+Netherlands,2,3,Germany
+Estonia,1,2,N. Ireland
+Belarus,0,2,Germany
+Germany,8,0,Estonia
+Belarus,0,1,N. Ireland
+Estonia,1,2,Belarus
+Germany,2,4,Netherlands
+N. Ireland,0,2,Germany
+Estonia,0,4,Netherlands
+Belarus,0,0,Estonia
+Netherlands,3,1,N. Ireland
+Belarus,1,2,Netherlands
+Estonia,0,3,Germany
+N. Ireland,0,0,Netherlands
+Germany,4,0,Belarus
+Netherlands,5,0,Estonia
+Germany,6,1,N. Ireland
+Georgia,0,2,Switzerland
+Gibraltar,0,1,Ireland
+Ireland,1,0,Georgia
+Switzerland,3,3,Denmark
+Georgia,3,0,Gibraltar
+Denmark,1,1,Ireland
+Ireland,2,0,Gibraltar
+Denmark,5,1,Georgia
+Ireland,1,1,Switzerland
+Gibraltar,0,6,Denmark
+Switzerland,4,0,Gibraltar
+Georgia,0,0,Denmark
+Georgia,0,0,Ireland
+Denmark,1,0,Switzerland
+Switzerland,2,0,Ireland
+Gibraltar,2,3,Georgia
+Switzerland,1,0,Georgia
+Denmark,6,0,Gibraltar
+Ireland,1,1,Denmark
+Gibraltar,1,6,Switzerland
+Slovakia,2,0,Hungary
+Croatia,2,1,Azerbaijan
+Wales,1,0,Slovakia
+Hungary,2,1,Croatia
+Croatia,2,1,Wales
+Azerbaijan,1,3,Hungary
+Azerbaijan,1,5,Slovakia
+Hungary,1,0,Wales
+Wales,2,1,Azerbaijan
+Slovakia,0,4,Croatia
+Azerbaijan,1,1,Croatia
+Hungary,1,2,Slovakia
+Slovakia,1,1,Wales
+Croatia,3,0,Hungary
+Hungary,1,0,Azerbaijan
+Wales,1,1,Croatia
+Azerbaijan,0,2,Wales
+Croatia,3,1,Slovakia
+Slovakia,2,0,Azerbaijan
+Wales,2,0,Hungary
+Sweden,2,1,Romania
+Malta,2,1,Faroe Islands
+Spain,2,1,Norway
+Norway,3,3,Sweden
+Malta,0,2,Spain
+Romania,4,1,Faroe Islands
+Norway,2,2,Romania
+Faroe Islands,1,4,Spain
+Sweden,3,0,Malta
+Spain,3,0,Sweden
+Faroe Islands,0,2,Norway
+Malta,0,4,Romania
+Norway,2,0,Malta
+Romania,1,2,Spain
+Faroe Islands,0,4,Sweden
+Romania,1,0,Malta
+Sweden,1,1,Norway
+Spain,4,0,Faroe Islands
+Faroe Islands,0,3,Romania
+Malta,0,4,Sweden
+Norway,1,1,Spain
+Romania,1,1,Norway
+Sweden,1,1,Spain
+Faroe Islands,1,0,Malta
+Norway,4,0,Faroe Islands
+Spain,7,0,Malta
+Romania,0,2,Sweden
+Spain,5,0,Romania
+Sweden,3,0,Faroe Islands
+Malta,1,2,Norway
+Austria,0,1,Poland
+Israel,1,1,Slovenia
+Macedonia,3,1,Latvia
+Israel,4,2,Austria
+Slovenia,1,1,Macedonia
+Poland,2,0,Latvia
+Macedonia,0,1,Poland
+Austria,1,0,Slovenia
+Latvia,0,3,Israel
+Poland,4,0,Israel
+Macedonia,1,4,Austria
+Latvia,0,5,Slovenia
+Israel,1,1,Macedonia
+Austria,6,0,Latvia
+Slovenia,2,0,Poland
+Slovenia,3,2,Israel
+Latvia,0,2,Macedonia
+Poland,0,0,Austria
+Macedonia,2,1,Slovenia
+Latvia,0,3,Poland
+Austria,3,1,Israel
+Slovenia,0,1,Austria
+Poland,2,0,Macedonia
+Israel,3,1,Latvia
+Slovenia,1,0,Latvia
+Israel,1,2,Poland
+Austria,2,1,Macedonia
+Latvia,1,0,Austria
+Poland,3,2,Slovenia
+Macedonia,1,0,Israel
+Albania,0,2,Türkiye
+Moldova,1,4,France
+Andorra,0,2,Iceland
+Türkiye,4,0,Moldova
+France,4,0,Iceland
+Andorra,0,3,Albania
+Iceland,1,0,Albania
+Moldova,1,0,Andorra
+Türkiye,2,0,France
+Iceland,2,1,Türkiye
+Albania,2,0,Moldova
+Andorra,0,4,France
+Iceland,3,0,Moldova
+France,4,1,Albania
+Türkiye,1,0,Andorra
+Moldova,0,4,Türkiye
+Albania,4,2,Iceland
+France,3,0,Andorra
+Iceland,0,1,France
+Türkiye,1,0,Albania
+Andorra,1,0,Moldova
+Iceland,2,0,Andorra
+Moldova,0,4,Albania
+France,1,1,Türkiye
+Türkiye,0,0,Iceland
+France,2,1,Moldova
+Albania,2,2,Andorra
+Andorra,0,2,Türkiye
+Moldova,1,2,Iceland
+Albania,0,2,France
+Kazakhstan,3,0,Scotland
+Cyprus,5,0,San Marino
+Belgium,3,1,Russia
+Kazakhstan,0,4,Russia
+San Marino,0,2,Scotland
+Cyprus,0,2,Belgium
+Russia,9,0,San Marino
+Scotland,2,1,Cyprus
+Belgium,3,0,Kazakhstan
+Kazakhstan,4,0,San Marino
+Russia,1,0,Cyprus
+Belgium,3,0,Scotland
+Cyprus,1,1,Kazakhstan
+San Marino,0,4,Belgium
+Scotland,1,2,Russia
+Scotland,0,4,Belgium
+Russia,1,0,Kazakhstan
+San Marino,0,4,Cyprus
+Kazakhstan,1,2,Cyprus
+Russia,4,0,Scotland
+Belgium,9,0,San Marino
+Kazakhstan,0,2,Belgium
+Scotland,6,0,San Marino
+Cyprus,1,2,Scotland
+San Marino,1,3,Kazakhstan
+Russia,1,4,Belgium
+San Marino,0,5,Russia
+Scotland,3,1,Kazakhstan
+Belgium,6,1,Cyprus
+Liechtenstein,0,2,Greece
+Bosnia,2,1,Armenia
+Italy,2,0,Finland
+Armenia,0,2,Finland
+Bosnia,2,2,Greece
+Italy,6,0,Liechtenstein
+Finland,2,0,Bosnia
+Armenia,3,0,Liechtenstein
+Greece,0,3,Italy
+Liechtenstein,0,2,Finland
+Greece,2,3,Armenia
+Italy,2,1,Bosnia
+Armenia,1,3,Italy
+Bosnia,5,0,Liechtenstein
+Finland,1,0,Greece
+Armenia,4,2,Bosnia
+Greece,1,1,Liechtenstein
+Finland,1,2,Italy
+Bosnia,4,1,Finland
+Italy,2,0,Greece
+Liechtenstein,1,1,Armenia
+Finland,3,0,Armenia
+Greece,2,1,Bosnia
+Liechtenstein,0,5,Italy
+Armenia,0,1,Greece
+Finland,3,0,Liechtenstein
+Bosnia,0,3,Italy
+Italy,9,1,Armenia
+Liechtenstein,0,3,Bosnia
+Greece,2,1,Finland
+Georgia,0,1,North Macedonia
+Serbia,0,0,Scotland
+Hungary,2,1,Iceland
+N. Ireland,1,0,Slovakia
+Georgia,1,0,Belarus
+Norway,1,2,Serbia
+Slovakia,0,0,Ireland
+Iceland,2,1,Romania
+Scotland,0,0,Israel
+Bosnia,0,0,N. Ireland
+Bulgaria,1,3,Hungary
+North Macedonia,2,1,Kosovo

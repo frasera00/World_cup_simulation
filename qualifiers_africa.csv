@@ -1,0 +1,61 @@
+Team_1,Goals_1,Goals_2,Team_2
+Mauritania,1,2,Zambia
+Tunisia,3,0,Equat. Guinea
+Zambia,0,2,Tunisia
+Equat. Guinea,1,0,Mauritania
+Equat. Guinea,2,0,Zambia
+Tunisia,3,0,Mauritania
+Zambia,1,1,Equat. Guinea
+Mauritania,0,0,Tunisia
+Zambia,4,0,Mauritania
+Equat. Guinea,1,0,Tunisia
+Mauritania,1,1,Equat. Guinea
+Tunisia,3,1,Zambia
+Mozambique,0,0,Ivory Coast
+Cameroon,2,0,Malawi
+Ivory Coast,2,1,Cameroon
+Malawi,1,0,Mozambique
+Malawi,0,3,Ivory Coast
+Cameroon,3,1,Mozambique
+Mozambique,0,1,Cameroon
+Ivory Coast,2,1,Malawi
+Malawi,0,4,Cameroon
+Ivory Coast,3,0,Mozambique
+Mozambique,1,0,Malawi
+Cameroon,1,0,Ivory Coast
+Zimbabwe,0,0,South Africa
+Ghana,1,0,Ethiopia
+South Africa,1,0,Ghana
+Ethiopia,1,0,Zimbabwe
+Ethiopia,1,3,South Africa
+Ghana,3,1,Zimbabwe
+Zimbabwe,0,1,Ghana
+South Africa,1,0,Ethiopia
+Ethiopia,1,1,Ghana
+South Africa,1,0,Zimbabwe
+Zimbabwe,1,1,Ethiopia
+Ghana,1,0,South Africa
+Senegal,2,0,Togo
+Namibia,1,1,Congo
+Togo,0,1,Namibia
+Congo,1,3,Senegal
+Togo,1,1,Congo
+Senegal,4,1,Namibia
+Namibia,1,3,Senegal
+Congo,1,2,Togo
+Congo,1,1,Namibia
+Togo,1,1,Senegal
+Senegal,2,0,Congo
+Namibia,0,1,Togo
+Guinea-Bissau,1,1,Guinea
+Morocco,2,0,Sudan
+Sudan,2,4,Guinea-Bissau
+Guinea,1,4,Morocco
+Sudan,1,1,Guinea
+Morocco,5,0,Guinea-Bissau
+Guinea,2,2,Sudan
+Guinea-Bissau,0,3,Morocco
+Guinea,0,0,Guinea-Bissau
+Sudan,0,3,Morocco
+Guinea-Bissau,0,0,Sudan
+Morocco,3,0,Guinea
